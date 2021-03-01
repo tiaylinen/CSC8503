@@ -1,0 +1,3 @@
+﻿  TutorialGame.cpp
+C:\Users\OMISTAJA\source\repos\CSC8503\CSC8503\GameTech\TutorialGame.cpp(647): warning C4715: 'NCL::CSC8503::TutorialGame::GameCompleted': not all control paths return a value
+  GameTech.vcxproj -> C:\Users\OMISTAJA\source\repos\CSC8503\x64\Debug\GameTech.exe
